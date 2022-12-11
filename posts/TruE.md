@@ -4,7 +4,7 @@ publish_date: 2022-12-10
 tags: ['作文素材','TruE','歌曲','积极向上']
 ---
 
-今天分享的作文素材是歌曲TruE的歌词，本素材非常美  
+>今天分享的作文素材是歌曲TruE的歌词，本素材非常美  
 
 Say my name when a tree susurrates  
 当花叶呢喃之时，请呼唤我的名字  
