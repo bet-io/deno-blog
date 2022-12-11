@@ -4,7 +4,7 @@ blog({
   author: "Jim",
   title: "Jim's Blog",
   description: "The blog description.",
-  avatar: "https://deno-avatar.deno.dev/avatar/83a531.svg",
+  avatar: "https://cravatar.cn/avatar/90ab9245b61d143ed247ea107082fcb0",
   avatarClass: "rounded-full",
   links: [
     { title: "Email", url: "mailto:bjimsblog@outlook.com" },
@@ -13,4 +13,5 @@ blog({
     { title: "Bilibili", url: "https://space.bilibili.com/699324580" }
   ],
   lang: "zh",
+  favicon: "https://i.imgtg.com/2022/12/11/DpUeb.png",
 });
