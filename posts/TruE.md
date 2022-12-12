@@ -51,3 +51,6 @@ Shaking off all the dust from the past
 将往世尘埃尽数抖落  
 New stories have yet to start  
 新的篇章行将开启
+
+<script defer src="https://commento.net/js/commento.js"></script>
+<div id="commento"></div>
